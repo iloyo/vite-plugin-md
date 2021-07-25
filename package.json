@@ -1,0 +1,30 @@
+{
+  "name": "@iloyo/vite-plugin-md",
+  "version": "1.0.9",
+  "description": "vite markdown plugin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iloyo/vite-plugin-md.git"
+  },
+  "keywords": [
+    "vite",
+    "markdown",
+    "plugin"
+  ],
+  "author": "iloyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iloyo/vite-plugin-md/issues"
+  },
+  "homepage": "https://github.com/iloyo/vite-plugin-md#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "marked": "^2.1.3"
+  }
+}
